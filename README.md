@@ -7,6 +7,11 @@
     - [KoSimCSE-roberta](https://huggingface.co/BM-K/KoSimCSE-roberta) 모델을 이용한 입력 프롬프트 벡터 유사도 계산으로 프롬프트 시나리오 분기 처리
     - 상기한 분기에 맞게 [GPT-4o API](https://platform.openai.com/) 및 [Yolo-world](https://docs.ultralytics.com/models/yolo-world/#available-models-supported-tasks-and-operating-modes) 모델을 이용한 투트랙 상황 처리
 
+## Architecture
+
+![Architecture](https://github.com/hanghae-hackathon/Helenkeller-Backend/blob/main/Architecture.jpg)
+
+
 ## Getting started
 
 ### Pre-requisites
