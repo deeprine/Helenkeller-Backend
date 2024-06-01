@@ -1,6 +1,7 @@
 # HelenKeller-Backend
 
 이 Repository는 항해커톤 2024 14팀의 시각장애인 보조 AI 서비스인 '헬렌켈러'의 FastAPI 기반 백엔드 부분입니다.
+본 Repository 안에 발표자료 및 시연 영상이 포함되어 있습니다.
 
 ## Key Features
 - 프론트엔드단에서 이미지와 프롬프트를 입력받아 AI 모델 및 API를 이용하여 프롬프트에 맞게 분석 후 결과를 리턴
