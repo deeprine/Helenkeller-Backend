@@ -1,0 +1,9 @@
+fastapi==0.111.0
+faster_whisper==1.0.2
+googletrans==4.0.0rc1
+pydantic==2.7.2
+Requests==2.32.3
+torch==2.2.0
+transformers==4.41.2
+ultralytics==8.2.27
+uvicorn==0.30.0
